@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Matter Suite]">
+  <test thread-count="5" name="Matter Creation test(failed)">
+    <classes>
+      <class name="com.lexisnexis.cl.q7.tests.MatterCreationPageTest">
+        <methods>
+          <include name="verifyCreateMatterTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.lexisnexis.cl.q7.tests.MatterCreationPageTest -->
+    </classes>
+  </test> <!-- Matter Creation test(failed) -->
+</suite> <!-- Failed suite [Matter Suite] -->

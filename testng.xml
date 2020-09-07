@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Matter Suite">
+  <test name="Matter Creation test">
+    <classes>
+     <!--  <class name="com.lexisnexis.cl.q7.tests.HomeUserPageTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.CorporateCustomerTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.OverviewMatterPageTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.LoginTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.HomePageTest"/> -->
+      <class name="com.lexisnexis.cl.q7.tests.MatterCreationPageTest"/>
+      <!-- <class name="com.lexisnexis.cl.q7.tests.CustomerListPageTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.OfficePageTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.UserPageTest"/>
+      <class name="com.lexisnexis.cl.q7.tests.MatterListPageTest"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
